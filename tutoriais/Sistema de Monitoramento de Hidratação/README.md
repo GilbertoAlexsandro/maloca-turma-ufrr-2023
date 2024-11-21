@@ -1,4 +1,4 @@
-# Projeto de Monitoramento de Hidratação para Pacientes Acamados - Maloca das iCoisas
+# Sistema de Monitoramento de Hidratação para Pacientes Acamados - Maloca das iCoisas
 
 ## Descrição
 Neste tutorial, vamos desenvolver um sistema de monitoramento de nível de líquido utilizando um sensor de umidade, com acionamento de LEDs e buzzer, usando uma placa **Arduino**. O objetivo é criar um sistema que detecte o nível de líquido e forneça alertas visuais e sonoros em tempo real. Este projeto é ideal para iniciantes e tem foco em automação de ambientes e sistemas de monitoramento. Aplicado à área da saúde, o sistema foi idealizado para monitorar o nível de líquidos, como soro ou água, administrados ao paciente. Ele pode emitir um alerta quando o nível do líquido estiver prestes a acabar, garantindo que os profissionais de saúde sejam notificados de forma rápida e eficaz.
